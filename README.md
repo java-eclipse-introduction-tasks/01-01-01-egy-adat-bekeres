@@ -6,12 +6,14 @@
 SzuletesiEvProjekt
 
 Írja meg azt a program részletet amely egy a egész számot kér be a következő szöveggel: "Adja meg a születési évét:"!
-1. feladat
+
+2. feladat
 
 FelevesAtlagProjekt
 
 Írja meg azt a program részletet, amely egy valós számot kér be a következő szöveggel: "Adja meg az első féléves átlagát:"!
-1. feladat
+
+3. feladat
 
 KilepesProjekt
 
